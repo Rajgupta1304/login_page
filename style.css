@@ -68,7 +68,8 @@ fieldset {
  #a1 {
     color: rgb(247, 243, 243);
     position: relative;
-    left: 90px;    
+    left: 85px;
+    text-decoration: none;
 }
 
 #label{
